@@ -1,0 +1,40 @@
+body{
+    background: rgb(52,0,0);
+    background: linear-gradient(45deg, rgba(52,0,0,1) 0%, rgba(121,9,9,1) 35%, rgba(172,41,41,1) 78%, rgba(255,0,0,1) 100%);
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+}
+
+.branco{
+    color: white;
+}
+
+.banner{
+    padding-bottom: 2%;
+}
+
+.accordion-button{
+    background-color: rgb(118, 199, 247);
+}
+
+.galeria{
+    padding-top: 2%;
+}
+
+.navbar{
+    padding-bottom: 1%;
+}
+
+.contato{
+    background-color: rgb(221, 221, 221);
+}
+
+label{
+    color: rgb(0, 0, 0);
+}
+
+.form-control{
+    color: darkslategray;
+}
