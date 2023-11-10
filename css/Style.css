@@ -38,3 +38,13 @@ label{
 .form-control{
     color: darkslategray;
 }
+
+.foot{
+    color: white;
+    font-style: inherit;
+    
+}
+
+.titulo{
+    padding-top: 2%;
+}
